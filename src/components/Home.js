@@ -5,15 +5,11 @@ import Grid from '@material-ui/core/Grid';
 import { makeStyles } from '@material-ui/core/styles';
 import Card from '@material-ui/core/Card';
 import CardActionArea from '@material-ui/core/CardActionArea';
-import CardActions from '@material-ui/core/CardActions';
+// import CardActions from '@material-ui/core/CardActions';
 import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
 import Typography from '@material-ui/core/Typography';
 import './ProductIndex.css';
-import {MensProducts} from './MensProducts';
-import {MensProductIndex} from './MensProductIndex';
-import {KidsProducts} from './KidsProducts';
-import {KidsProductIndex} from './KidsProductIndex';
 
 // const useStyles = makeStyles({
 //     root: {
